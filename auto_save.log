@@ -12297,3 +12297,7 @@ xcrun: error: unable to load libxcrun (dlopen(/Library/Developer/CommandLineTool
 xcrun: error: unable to load libxcrun (dlopen(/Library/Developer/CommandLineTools/usr/lib/libxcrun.dylib, 0x0005): tried: '/Library/Developer/CommandLineTools/usr/lib/libxcrun.dylib' (mach-o file, but is an incompatible architecture (have 'x86_64', need 'arm64e')), '/System/Volumes/Preboot/Cryptexes/OS/Library/Developer/CommandLineTools/usr/lib/libxcrun.dylib' (no such file), '/Library/Developer/CommandLineTools/usr/lib/libxcrun.dylib' (mach-o file, but is an incompatible architecture (have 'x86_64', need 'arm64e'))).
 xcrun: error: unable to load libxcrun (dlopen(/Library/Developer/CommandLineTools/usr/lib/libxcrun.dylib, 0x0005): tried: '/Library/Developer/CommandLineTools/usr/lib/libxcrun.dylib' (mach-o file, but is an incompatible architecture (have 'x86_64', need 'arm64e')), '/System/Volumes/Preboot/Cryptexes/OS/Library/Developer/CommandLineTools/usr/lib/libxcrun.dylib' (no such file), '/Library/Developer/CommandLineTools/usr/lib/libxcrun.dylib' (mach-o file, but is an incompatible architecture (have 'x86_64', need 'arm64e'))).
 Saved to GitHub.
+[main dd2c9d0] auto-save: 2026-08-24 10:00
+ 1 file changed, 89 insertions(+)
+fatal: could not read Username for 'https://github.com': Device not configured
+Saved to GitHub.
