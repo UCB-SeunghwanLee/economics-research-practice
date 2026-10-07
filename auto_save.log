@@ -14616,3 +14616,14 @@ remote:   https://github.com/UCB-SeunghwanLee/economics-research-practice.git
 To https://github.com/ys98113-creator/economics-research-practice.git
    068d628..2e230a0  main -> main
 Saved to GitHub.
+[main 5b09351] auto-save: 2026-10-07 10:00
+ 1 file changed, 7 insertions(+)
+remote: This repository moved. Please use the new location:        
+remote:   https://github.com/UCB-SeunghwanLee/economics-research-practice.git        
+remote: Internal Server Error        
+remote: Request ID FD96:1C99B3:13645E:1F3F06:6AC67A91        
+remote: Time 2026-10-07T17:00:02Z
+To https://github.com/ys98113-creator/economics-research-practice.git
+ ! [remote rejected] main -> main (Internal Server Error)
+error: failed to push some refs to 'https://github.com/ys98113-creator/economics-research-practice.git'
+Saved to GitHub.
