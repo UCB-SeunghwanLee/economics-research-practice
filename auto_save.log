@@ -16283,3 +16283,10 @@ Saved to GitHub.
  1 file changed, 7 insertions(+)
 fatal: unable to access 'https://github.com/ys98113-creator/economics-research-practice.git/': Failed to connect to github.com port 443 after 75027 ms: Couldn't connect to server
 Saved to GitHub.
+[main d3be650] auto-save: 2026-10-20 10:00
+ 1 file changed, 4 insertions(+)
+remote: This repository moved. Please use the new location:        
+remote:   https://github.com/UCB-SeunghwanLee/economics-research-practice.git        
+To https://github.com/ys98113-creator/economics-research-practice.git
+   207d117..d3be650  main -> main
+Saved to GitHub.
