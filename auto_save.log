@@ -16371,3 +16371,10 @@ Saved to GitHub.
  1 file changed, 7 insertions(+)
 fatal: unable to access 'https://github.com/ys98113-creator/economics-research-practice.git/': Could not resolve host: github.com
 Saved to GitHub.
+[main 24611ab] auto-save: 2026-10-21 13:00
+ 1 file changed, 4 insertions(+)
+remote: This repository moved. Please use the new location:        
+remote:   https://github.com/UCB-SeunghwanLee/economics-research-practice.git        
+To https://github.com/ys98113-creator/economics-research-practice.git
+   f08abf3..24611ab  main -> main
+Saved to GitHub.
